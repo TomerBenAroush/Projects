@@ -11,8 +11,11 @@ Subsequently, it updates its state according to the actual branch outcome and de
 
 Branch's Features:
 Initialization of the branch predictor.
+
 Update of the branch predictor based on branch outcomes.
+
 Prediction of branches using different predictor configurations.
+
 Display of statistics related to branch prediction accuracy.
 
 
