@@ -1,6 +1,8 @@
 Branch Predictor in C++
+
 This project implemented a two-level branch predictor. 
 The branch predictor's configuration is flexible and can be defined at the beginning of the simulation using parameters. 
+
 including global and local history, global and local finite state machines (FSM),
 and different sizes of Branch Target Buffers (BTB).
 
