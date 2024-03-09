@@ -10,6 +10,7 @@ The BP is tasked with predicting each branch event based solely on the instructi
 Subsequently, it updates its state according to the actual branch outcome and decision made in the execution stage (EXE).
 
 Branch's Features:
+
 Initialization of the branch predictor.
 
 Update of the branch predictor based on branch outcomes.
