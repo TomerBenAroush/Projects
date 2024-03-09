@@ -1,4 +1,5 @@
 Grades system in C.
+
 About the project - System for managing students' gardes: 
 
 The project developed a system for managing students' grades using a Shared Library of Linked Lists as an Abstract Data Type (ADT). 
