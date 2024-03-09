@@ -14,7 +14,7 @@ My Projects:
 	- Grades system in C
 
 * FPGA:
-	- FPGA game development
+	- FPGA game development in SystemVerilog
 
 Note:
 A README document is attached to each project which details the main points of the project for your reading.
