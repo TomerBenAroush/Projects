@@ -7,11 +7,11 @@ Here, you'll find a collection of my projects i've worked on during my studies a
 My Projects: 
 
 * Computer Architecture: 
- 	- Branch predictor 
+ 	- Branch predictor in C++
 
 * Software systems:
 	- Firewall in C++
-	- Grades system
+	- Grades system in C
 
 * FPGA:
 	- FPGA game development
