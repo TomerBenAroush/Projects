@@ -8,7 +8,7 @@ My Projects:
 
 * Computer Architecture: 
  	- Branch predictor Simulator in C++
-    	- Cache Simulator in C++
+        -  Cache Simulator in C++
 
 * Software systems:
 	- Firewall in C++
