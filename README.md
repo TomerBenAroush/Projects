@@ -7,7 +7,8 @@ Here, you'll find a collection of my projects i've worked on during my studies a
 My Projects: 
 
 * Computer Architecture: 
- 	- Branch predictor in C++
+ 	- Branch predictor Simulator in C++
+    	- Cache Simulator in C++
 
 * Software systems:
 	- Firewall in C++
