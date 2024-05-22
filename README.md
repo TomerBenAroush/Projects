@@ -7,15 +7,16 @@ Here, you'll find a collection of my projects i've worked on during my studies a
 My Projects: 
 
 * Computer Architecture: 
- 	- Branch predictor Simulator in C++
-  -  Cache Simulator in C++
+ 	- Branch predictor Simulator in C++.
+  -  Cache Simulator in C++.
+  -  MultiThreads simulator in C++.
 
 * Software systems:
-	- Firewall in C++
-	- Grades system in C
+	- Firewall in C++.
+	- Grades system in C.
 
 * FPGA:
-	- FPGA game development in SystemVerilog
+	- FPGA game development in SystemVerilog - PAC-MAN.
 
 Note:
 A README document is attached to each project which details the main points of the project for your reading.
