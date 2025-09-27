@@ -1,6 +1,6 @@
 # Beyond Accuracy — Yoga Pose Classification
 
-**My Fork:** [TomerBenAroush/Beyond-Accuracy-Yoga](https://github.com/TomerBenAroush/Beyond-Accuracy-Yoga)  
+**My Fork:** [TomerBenAroush/Beyond-Accuracy-Yoga-Project](https://github.com/TomerBenAroush/DeepLearningProject)  
 
 ## 📌 Overview
 A deep learning project focusing on yoga pose classification. The goal was to go beyond traditional accuracy metrics and evaluate explainability and robustness.
@@ -25,4 +25,4 @@ A deep learning project focusing on yoga pose classification. The goal was to go
 
 ## 📂 Structure
 The full implementation, training scripts, and reports are in my forked repo:  
-👉 [TomerBenAroush/Beyond-Accuracy-Yoga](https://github.com/TomerBenAroush/Beyond-Accuracy-Yoga)
+👉 [TomerBenAroush/Beyond-Accuracy-Yoga-Project](https://github.com/TomerBenAroush/DeepLearningProject)
