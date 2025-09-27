@@ -1,3 +1,28 @@
-# Beyond-Accuracy-Yoga
+# Beyond Accuracy — Yoga Pose Classification
 
-Landing page. Code/links will be added.
+**My Fork:** [TomerBenAroush/Beyond-Accuracy-Yoga](https://github.com/TomerBenAroush/Beyond-Accuracy-Yoga)  
+
+## 📌 Overview
+A deep learning project focusing on yoga pose classification. The goal was to go beyond traditional accuracy metrics and evaluate explainability and robustness.
+
+## 🚀 Highlights
+- Comparative study of multiple neural network architectures:
+  - **CNN**
+  - **Vision Transformer (ViT)**
+  - **Graph Neural Network (GNN)**
+- Applied explainability tools:
+  - Grad-CAM
+  - Attention maps
+  - GNN Explainer
+- Robustness experiments under:
+  - Gaussian noise
+  - Augmentations
+
+## 🛠 Tech Stack
+- PyTorch
+- Kornia (data augmentation)
+- Grad-CAM / explainability libraries
+
+## 📂 Structure
+The full implementation, training scripts, and reports are in my forked repo:  
+👉 [TomerBenAroush/Beyond-Accuracy-Yoga](https://github.com/TomerBenAroush/Beyond-Accuracy-Yoga)
