@@ -1,6 +1,6 @@
 # Hardware–Software Acceleration (HwSw)
 
-**My Fork:** [TomerBenAroush/HwSw](https://github.com/TomerBenAroush/HwSw)  
+**My Fork:** [TomerBenAroush/HwSw](https://github.com/TomerBenAroush/HwSwProject)  
 **Original Repo:** [barar953/HwSw](https://github.com/barar953/HwSw)  
 
 ## 📌 Overview
@@ -21,4 +21,4 @@ This project explores hardware–software co-design techniques to accelerate Pyt
 
 ## 📂 Structure
 The full implementation and experiments are in my forked repo:  
-👉 [TomerBenAroush/HwSw](https://github.com/TomerBenAroush/HwSw)
+👉 [TomerBenAroush/HwSw](https://github.com/TomerBenAroush/HwSwProject)
