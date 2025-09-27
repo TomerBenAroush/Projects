@@ -1,4 +1,4 @@
-# Beyond Accuracy — Yoga Pose Classification
+# Beyond Accuracy - Yoga Pose Classification
 
 **My Fork:** [TomerBenAroush/Beyond-Accuracy-Yoga-Project](https://github.com/TomerBenAroush/DeepLearningProject)  
 
