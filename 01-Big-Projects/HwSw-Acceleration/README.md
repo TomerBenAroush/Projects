@@ -7,7 +7,7 @@
 This project explores hardware–software co-design techniques to accelerate Python workloads, with a focus on serialization and logging.
 
 ## 🚀 Highlights
-- Benchmarked and optimized Python’s `json.dumps` and `pickle` functions.
+- Benchmarked and optimized Python’s `json.dumps` and `logging` functions.
 - Profiled performance using **perf** and **FlameGraph** to identify CPU bottlenecks.
 - Explored hardware acceleration for:
   - **String escaping**  
